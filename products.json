@@ -1,0 +1,44 @@
+[
+    {
+        "name" : "iphone11",
+        "price" : 80000,
+        "feature": true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iphone12",
+        "price" : 120000,
+        "feature": true,
+        "company" : "apple"
+    },
+    {
+        "name" : "watch",
+        "price" : 50000,
+        "company" : "apple"
+    },
+    {
+        "name" : "watch10",
+        "price" : 60000,
+        "company" : "apple"
+    },
+    {
+        "name" : "iphone13",
+        "price" : 150000,
+        "company" : "apple"
+    },
+    {
+        "name" : "dell gaming",
+        "price" : 50000,
+        "company" : "dell"
+    },
+    {
+        "name" : "Mac book pro",
+        "price" : 175000,
+        "company" : "apple"
+    },
+    {
+        "name" : "hp laptop",
+        "price" : 80000,
+        "company" : "apple"
+    }
+]
